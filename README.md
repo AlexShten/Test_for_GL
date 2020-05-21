@@ -41,3 +41,10 @@ drwxr-xr-x 2 usr users 4.0K may 14 15:02 .
 drwxr-xr-x 6 usr users 4.0K may 14 16:00 ..
 -rw-r--r-- 1 usr users  71K may 14 14:58 picture-registrar.jpg
 -rw-r--r-- 1 usr users  209 may 14 14:58 zen.txt
+
+
+
+
+General information.
+To complete the task, the following equipment was used - raspberry Pi 3 A + with the latest version of raspbian booster OS. Gcc compiler (on command line)
+example - gcc -o extract extract.c
