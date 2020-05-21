@@ -2,7 +2,7 @@
 General information.
 To complete the task, the following equipment was used - raspberry Pi 3 A + with the latest version of raspbian booster OS. Gcc compiler (on command line)
 example - gcc -o extract extract.c
-
+---------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -26,8 +26,9 @@ Example:
 [giant@laptop ~]$	./steps 986 16
 58
 
-
-!!!In this task, a check is performed on the number of input parameters, as well as on the correspondence of the input parameters to integer positive numbers.!!!
+------------------------------------------------
+!!!In this task, a check is performed on the number of input parameters, as well as on the correspondence of the input parameters to integer positive numbers !!!
+------------------------------------------------
 
 Task 2: The Bridge
 The Greedy King wants to collect tribute for each span of the Magical Bridge the merchants pass. He wants to install special wired sensors on each of the spans, with communication cables leading directly to the Treasury Department base station located at one bank of the river. He asked the Mighty Wizard to calculate the total length of the cables. But Mighty Wizard knows that there will be no enough cables in the whole Kingdom and it's better to use wireless solutions. Help him convince the Greedy King.
@@ -39,17 +40,21 @@ Example:
 [king@govpc ~]$	./cables 100 3
 15150
 
+------------------------------------------------
 !!!
-In this task, a check is performed on the number of input parameters. Both integers and real numbers can be entered (only for the third parameter D, the distance between the spans).!!!
+In this task, a check is performed on the number of input parameters. Both integers and real numbers can be entered (only for the third parameter D, the distance between the spans) !!!
+------------------------------------------------
 
 
 Task 3: The Knight
 The Binary Knight fights for every bit of free space on his hard drive. His favorite arsenal is a combination of `ls -la` and `rm -rf` tools. Once, during a glorious three-day fight, he has accidentally removed the `ls` tool. Now he does not know which files are there on his disk and how much space they occupy.
 Help the Binary Knight get back to glorious disk freedom battles soon. Write a program that produces the same output as `ls -la`.
 
+------------------------------------------------
 !!!
 To start, write the following line: ./like_ls -la
 !!!
+------------------------------------------------
 
 Task 4: Extractor
 Below  is  described  a  simple  TAR-like  FS  image  format,  especially  useful  for  highly-constrained
