@@ -39,6 +39,9 @@ Example:
 [king@govpc ~]$	./cables 100 3
 15150
 
+!!!
+In this task, a check is performed on the number of input parameters. Both integers and real numbers can be entered (only for the third parameter D, the distance between the spans).!!!
+
 Task 4: Extractor
 Below  is  described  a  simple  TAR-like  FS  image  format,  especially  useful  for  highly-constrained
 embedded devices. Each FS image is a file, containing other files and directories inside without any
