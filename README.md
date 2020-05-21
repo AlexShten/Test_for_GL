@@ -27,7 +27,7 @@ Example:
 58
 
 
-!!!In this task, a check is performed on the number of input parameters, as well as on the correspondence of the input parameters to integers.!!!
+!!!In this task, a check is performed on the number of input parameters, as well as on the correspondence of the input parameters to integer positive numbers.!!!
 
 Task 2: The Bridge
 The Greedy King wants to collect tribute for each span of the Magical Bridge the merchants pass. He wants to install special wired sensors on each of the spans, with communication cables leading directly to the Treasury Department base station located at one bank of the river. He asked the Mighty Wizard to calculate the total length of the cables. But Mighty Wizard knows that there will be no enough cables in the whole Kingdom and it's better to use wireless solutions. Help him convince the Greedy King.
