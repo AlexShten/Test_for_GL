@@ -42,6 +42,15 @@ Example:
 !!!
 In this task, a check is performed on the number of input parameters. Both integers and real numbers can be entered (only for the third parameter D, the distance between the spans).!!!
 
+
+Task 3: The Knight
+The Binary Knight fights for every bit of free space on his hard drive. His favorite arsenal is a combination of `ls -la` and `rm -rf` tools. Once, during a glorious three-day fight, he has accidentally removed the `ls` tool. Now he does not know which files are there on his disk and how much space they occupy.
+Help the Binary Knight get back to glorious disk freedom battles soon. Write a program that produces the same output as `ls -la`.
+
+!!!
+To start, write the following line: ./like_ls -la
+!!!
+
 Task 4: Extractor
 Below  is  described  a  simple  TAR-like  FS  image  format,  especially  useful  for  highly-constrained
 embedded devices. Each FS image is a file, containing other files and directories inside without any
