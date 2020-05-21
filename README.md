@@ -1,7 +1,7 @@
 # Test_for_GL
 General information.
 To complete the task, the following equipment was used - raspberry Pi 3 A + with the latest version of raspbian booster OS. Gcc compiler (on command line)
-example - gcc -o extract extract.c
+example: gcc -o extract extract.c
 ---------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -27,7 +27,7 @@ Example:
 58
 
 ------------------------------------------------
-!!!In this task, a check is performed on the number of input parameters, as well as on the correspondence of the input parameters to integer positive numbers !!!
+!!!In this task, a check is performed on the number of input parameters, as well as on the correspondence of the input parameters to integer positive numbers
 ------------------------------------------------
 
 Task 2: The Bridge
@@ -42,7 +42,7 @@ Example:
 
 ------------------------------------------------
 !!!
-In this task, a check is performed on the number of input parameters. Both integers and real numbers can be entered (only for the third parameter D, the distance between the spans) !!!
+In this task, a check is performed on the number of input parameters. Both integers and real numbers can be entered (only for the third parameter D, the distance between the spans)
 ------------------------------------------------
 
 
@@ -53,7 +53,6 @@ Help the Binary Knight get back to glorious disk freedom battles soon. Write a p
 ------------------------------------------------
 !!!
 To start, write the following line: ./like_ls -la
-!!!
 ------------------------------------------------
 
 Task 4: Extractor
