@@ -1,4 +1,13 @@
 # Test_for_GL
+General information.
+To complete the task, the following equipment was used - raspberry Pi 3 A + with the latest version of raspbian booster OS. Gcc compiler (on command line)
+example - gcc -o extract extract.c
+
+
+
+
+
+
 Task 1: The Stairway
 One Giant wants to climb the Magical Tower stairway. He knows he could step over each K-th stair. An Old Troll is asking the Giant how many stairs will he step in total if there are N stairs in the stairway. Write a program, that will help Giant answer the Old Troll.
 The program accepts N and K as *command-line arguments* (not stdin) and returns the total number of stairs the Giant steps to stdout.
@@ -45,6 +54,4 @@ drwxr-xr-x 6 usr users 4.0K may 14 16:00 ..
 
 
 
-General information.
-To complete the task, the following equipment was used - raspberry Pi 3 A + with the latest version of raspbian booster OS. Gcc compiler (on command line)
-example - gcc -o extract extract.c
+
